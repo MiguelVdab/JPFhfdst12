@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="24ea0caf-e39d-4574-a11a-4385e8559459" name="Changes" comment="" />
+    <list default="true" id="24ea0caf-e39d-4574-a11a-4385e8559459" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/VoorwerpenMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst14/Seizoen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/taakEnum/Geslacht.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/taakEnum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/taakEnum/Persoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/util/Isbn13Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/util/Voorwerp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/Boek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/Boekenrek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/Leesboek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/Woordenboek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OefeningVoorwerpen/Boek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OefeningVoorwerpen/Boekenrek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OefeningVoorwerpen/Leesboek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OefeningVoorwerpen/Voorwerp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OefeningVoorwerpen/VoorwerpenMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OefeningVoorwerpen/Woordenboek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/Afschrijving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/Afschrijving.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/Kopieermachines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/Kopieermachines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/Kost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/Kost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/KostProgramma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/KostProgramma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/Vrachtwagens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/Vrachtwagens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/Werknemer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/Werknemer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/kostProgramma2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst12/kostProgramma2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MJkcjqQbnzjlD829J8LpLAtpAK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +58,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.be.vdab.taakEnum.Main">
+    <configuration name="KostProgramma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.vdab.jpfhfdst12.KostProgramma" />
+      <module name="JPFhfdst12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.jpfhfdst12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.vdab.jpfhfdst14.Main" />
+      <module name="JPFhfdst12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.jpfhfdst14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoorwerpenMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.vdab.VoorwerpenMain" />
+      <module name="JPFhfdst12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="be.vdab.taakEnum.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.vdab.taakEnum.Main" />
+      <module name="JPFhfdst12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.taakEnum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kostProgramma2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.vdab.jpfhfdst12.kostProgramma2" />
+      <module name="JPFhfdst12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.jpfhfdst12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.be.vdab.taakEnum.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.VoorwerpenMain" />
+        <item itemvalue="Application.kostProgramma2" />
+        <item itemvalue="Application.KostProgramma" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
